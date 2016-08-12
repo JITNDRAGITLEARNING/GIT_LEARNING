@@ -7,5 +7,9 @@ HHHHH 12 august
 
 //changes server -pull
 
+<<<<<<< HEAD
 
 //need to check merge
+=======
+//not meger
+>>>>>>> 76af81fbc0f59e50c0d668cf31199f81ec3ef43e
