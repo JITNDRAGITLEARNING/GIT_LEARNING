@@ -6,3 +6,5 @@ HHHHH 12 august
 //first fecth in local not here - checking now..!
 
 //changes server -pull
+
+//not meger
